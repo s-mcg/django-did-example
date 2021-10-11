@@ -6,10 +6,10 @@ Note: these scripts should be run with python3. If your system has `python` mapp
 
 Step 0. clone repository and install dependencies
 
-pip install cryptography
+```pip install cryptography
 pip install python-jose[cryptography]
 pip install django
-pip install requests
+pip install requests```
 
 
 Step 1. run the first script. it should create 3 files.
