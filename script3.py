@@ -2,8 +2,6 @@ import sys
 import requests
 import json
 from jose import jwt
-from jose import jws
-from jose import jwk
 
 if len(sys.argv) == 1:
   print('no token provided. exiting')

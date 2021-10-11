@@ -1,4 +1,3 @@
-from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PrivateKey
 from cryptography.hazmat.primitives import serialization
 import json
 from cryptography.hazmat.primitives.asymmetric import rsa
